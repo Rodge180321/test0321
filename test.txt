@@ -1,7 +1,4 @@
 test update the file to github.
 third commit.
 second commit.
-<<<<<<< HEAD
-=======
-fourth commit.
->>>>>>> dev
+

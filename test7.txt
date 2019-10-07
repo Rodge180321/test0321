@@ -6,3 +6,4 @@ seven second commit by test2.
 7 commit again.
 seven second commit by test2.
 test hint.
+test1 test hint.
